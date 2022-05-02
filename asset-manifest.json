@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lotte_portfolio/static/css/main.297e1fd0.css",
+    "main.js": "/lotte_portfolio/static/js/main.bb25a010.js",
+    "static/js/787.a5a07f7d.chunk.js": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js",
+    "static/media/main_01.jpg": "/lotte_portfolio/static/media/main_01.344c580c266418f3393a.jpg",
+    "static/media/main_001_1920.jpg": "/lotte_portfolio/static/media/main_001_1920.3075cc439cd6d1b4fdcf.jpg",
+    "static/media/main_001_640.jpg": "/lotte_portfolio/static/media/main_001_640.4dae81ea6462fcf93eea.jpg",
+    "index.html": "/lotte_portfolio/index.html",
+    "main.297e1fd0.css.map": "/lotte_portfolio/static/css/main.297e1fd0.css.map",
+    "main.bb25a010.js.map": "/lotte_portfolio/static/js/main.bb25a010.js.map",
+    "787.a5a07f7d.chunk.js.map": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297e1fd0.css",
+    "static/js/main.bb25a010.js"
+  ]
+}
