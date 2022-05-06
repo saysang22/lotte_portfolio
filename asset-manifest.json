@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lotte_portfolio/static/css/main.d8a5afa5.css",
-    "main.js": "/lotte_portfolio/static/js/main.1aca3a8f.js",
+    "main.js": "/lotte_portfolio/static/js/main.c2c9f312.js",
     "static/js/787.a5a07f7d.chunk.js": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js",
     "static/media/d_6.jpg": "/lotte_portfolio/static/media/d_6.f588f9893757d0424a61.jpg",
     "static/media/d_7.jpg": "/lotte_portfolio/static/media/d_7.8f6e440547586e9d4bb5.jpg",
@@ -32,11 +32,11 @@
     "static/media/d_23.jpg": "/lotte_portfolio/static/media/d_23.d18622bcc76a883bc5a8.jpg",
     "index.html": "/lotte_portfolio/index.html",
     "main.d8a5afa5.css.map": "/lotte_portfolio/static/css/main.d8a5afa5.css.map",
-    "main.1aca3a8f.js.map": "/lotte_portfolio/static/js/main.1aca3a8f.js.map",
+    "main.c2c9f312.js.map": "/lotte_portfolio/static/js/main.c2c9f312.js.map",
     "787.a5a07f7d.chunk.js.map": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8a5afa5.css",
-    "static/js/main.1aca3a8f.js"
+    "static/js/main.c2c9f312.js"
   ]
 }
