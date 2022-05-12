@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lotte_portfolio/static/css/main.e2102b7b.css",
-    "main.js": "/lotte_portfolio/static/js/main.d1a4ea0d.js",
+    "main.css": "/lotte_portfolio/static/css/main.d52c3289.css",
+    "main.js": "/lotte_portfolio/static/js/main.75c89e97.js",
     "static/js/787.a5a07f7d.chunk.js": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js",
     "static/media/d_6.jpg": "/lotte_portfolio/static/media/d_6.f588f9893757d0424a61.jpg",
     "static/media/d_7.jpg": "/lotte_portfolio/static/media/d_7.8f6e440547586e9d4bb5.jpg",
@@ -19,24 +19,28 @@
     "static/media/d_25.jpg": "/lotte_portfolio/static/media/d_25.3da0a43f26291a6f075c.jpg",
     "static/media/d_9.jpg": "/lotte_portfolio/static/media/d_9.4ceb19a035b61c99db16.jpg",
     "static/media/d_10.jpg": "/lotte_portfolio/static/media/d_10.5ef432e83dc022b3a152.jpg",
+    "static/media/detail_1.jpg": "/lotte_portfolio/static/media/detail_1.2917da61bd7ea0510d8a.jpg",
     "static/media/d_1.jpg": "/lotte_portfolio/static/media/d_1.6268e8ae1b3753aaa4aa.jpg",
     "static/media/d_2.jpg": "/lotte_portfolio/static/media/d_2.d0a74d67b43c55d73942.jpg",
     "static/media/d_0.jpg": "/lotte_portfolio/static/media/d_0.11c1da203475d2067914.jpg",
+    "static/media/detail_2.jpg": "/lotte_portfolio/static/media/detail_2.1f9d6b196a7fd7cc96ee.jpg",
     "static/media/d_5.jpg": "/lotte_portfolio/static/media/d_5.4348b0290fe7df8f4d5c.jpg",
+    "static/media/detail_0.jpg": "/lotte_portfolio/static/media/detail_0.4348b0290fe7df8f4d5c.jpg",
     "static/media/d_3.jpg": "/lotte_portfolio/static/media/d_3.b539e436d1072962d709.jpg",
     "static/media/d_18.jpg": "/lotte_portfolio/static/media/d_18.daef4cdbf6341ef119b8.jpg",
     "static/media/d_19.jpg": "/lotte_portfolio/static/media/d_19.daef4cdbf6341ef119b8.jpg",
     "static/media/d_20.jpg": "/lotte_portfolio/static/media/d_20.daef4cdbf6341ef119b8.jpg",
+    "static/media/banner_01.jpg": "/lotte_portfolio/static/media/banner_01.a1c241e68f1dcb7fbebb.jpg",
     "static/media/d_21.jpg": "/lotte_portfolio/static/media/d_21.d18622bcc76a883bc5a8.jpg",
     "static/media/d_22.jpg": "/lotte_portfolio/static/media/d_22.d18622bcc76a883bc5a8.jpg",
     "static/media/d_23.jpg": "/lotte_portfolio/static/media/d_23.d18622bcc76a883bc5a8.jpg",
     "index.html": "/lotte_portfolio/index.html",
-    "main.e2102b7b.css.map": "/lotte_portfolio/static/css/main.e2102b7b.css.map",
-    "main.d1a4ea0d.js.map": "/lotte_portfolio/static/js/main.d1a4ea0d.js.map",
+    "main.d52c3289.css.map": "/lotte_portfolio/static/css/main.d52c3289.css.map",
+    "main.75c89e97.js.map": "/lotte_portfolio/static/js/main.75c89e97.js.map",
     "787.a5a07f7d.chunk.js.map": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2102b7b.css",
-    "static/js/main.d1a4ea0d.js"
+    "static/css/main.d52c3289.css",
+    "static/js/main.75c89e97.js"
   ]
 }
