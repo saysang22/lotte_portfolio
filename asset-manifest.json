@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lotte_portfolio/static/css/main.d98a6a82.css",
-    "main.js": "/lotte_portfolio/static/js/main.28c188ec.js",
+    "main.css": "/lotte_portfolio/static/css/main.2d839f98.css",
+    "main.js": "/lotte_portfolio/static/js/main.a4ff432b.js",
     "static/js/787.a5a07f7d.chunk.js": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js",
     "static/media/NotoSansKR-Regular.otf": "/lotte_portfolio/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/d_6.jpg": "/lotte_portfolio/static/media/d_6.f588f9893757d0424a61.jpg",
@@ -35,13 +35,17 @@
     "static/media/d_21.jpg": "/lotte_portfolio/static/media/d_21.d18622bcc76a883bc5a8.jpg",
     "static/media/d_22.jpg": "/lotte_portfolio/static/media/d_22.d18622bcc76a883bc5a8.jpg",
     "static/media/d_23.jpg": "/lotte_portfolio/static/media/d_23.d18622bcc76a883bc5a8.jpg",
+    "static/media/coupon_img100000.jpg": "/lotte_portfolio/static/media/coupon_img100000.ee55348ad8a81cf83148.jpg",
+    "static/media/coupon_img10000.jpg": "/lotte_portfolio/static/media/coupon_img10000.ac5eb5384bed7f318662.jpg",
+    "static/media/coupon_img50000.jpg": "/lotte_portfolio/static/media/coupon_img50000.2bb669c7e9139ca5af98.jpg",
+    "static/media/coupon_cerificate.jpg": "/lotte_portfolio/static/media/coupon_cerificate.1e2b0d32d7ba4f9a9798.jpg",
     "index.html": "/lotte_portfolio/index.html",
-    "main.d98a6a82.css.map": "/lotte_portfolio/static/css/main.d98a6a82.css.map",
-    "main.28c188ec.js.map": "/lotte_portfolio/static/js/main.28c188ec.js.map",
+    "main.2d839f98.css.map": "/lotte_portfolio/static/css/main.2d839f98.css.map",
+    "main.a4ff432b.js.map": "/lotte_portfolio/static/js/main.a4ff432b.js.map",
     "787.a5a07f7d.chunk.js.map": "/lotte_portfolio/static/js/787.a5a07f7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d98a6a82.css",
-    "static/js/main.28c188ec.js"
+    "static/css/main.2d839f98.css",
+    "static/js/main.a4ff432b.js"
   ]
 }
